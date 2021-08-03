@@ -21,16 +21,25 @@ The output of the analysis includes MapReduce jarfiles and .hql files so that th
 # Softwares Used
 
 *Hadoop 
+
 *HDFS
+
 *YARN
+
 *HIVE
+
 *MapReduce
+
 *Python
+
 *Git/Github
 
 #Feature
 
 1.Find, organize, and format pageviews on any given day.
+
 2.Follow clickstreams to find relative frequencies of different pages.
+
 3.Determine relative popularity of page access methods.
+
 4.Compare yearly popularity of pages.
