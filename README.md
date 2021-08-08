@@ -20,7 +20,7 @@ Most of the code was done using HQL in a Hive GUI interface via Data Analysis st
 1. Download Hortonworks community Edition -https://www.cloudera.com/downloads/hortonworks-sandbox/hdp.html
 2. Install Hortonworks on your machine or virtual machine - https://www.virtualbox.org/wiki/Downloads
 3. Download Git Bash on your computer - https://git-scm.com/downloads
-4. Clone my code - git clone https://github.com/MANASWINI1591/BIG-DATA-PROJECT1.git
+4. Clone my code - git clone https://github.com/Puneet-Bigdata/project1
 5. Setup a Hortonworks in virtual machine, import pageview and clickstream data in hdfs, and start queryin the with hive.
 # Problem Statement
 1. Which English wikipedia article got the most traffic on April 20, 2021?
